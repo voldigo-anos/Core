@@ -16,7 +16,7 @@ const readline = defaultRequire("readline");
 const fs = defaultRequire("fs-extra");
 const toptp = defaultRequire("totp-generator");
 
-const { login } = require(`${process.cwd()}/fca-unofficial`);
+const { login } = require(`${process.cwd()}/fb-chat-api``);
 //const { login } = require("neokex-fca");
 //const login = require("noobcore-fca");
 
